@@ -2,4 +2,4 @@
 
 Example code to create a QIS procesing plugin.
 
-More information (in Spanish) at the entrance [entrada](entrada]
+More information (in Spanish) at the entrance [entrada](entrada)
